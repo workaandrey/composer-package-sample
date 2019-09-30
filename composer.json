@@ -1,0 +1,17 @@
+{
+    "name": "sacram/sample",
+    "require": {
+        "php": "^7.0"
+    },
+    "authors": [
+        {
+            "name": "Andrey Artyushenko",
+            "email": "work.a.andrey@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Helpers\\": "src"
+        }
+    }
+}
